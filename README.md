@@ -36,6 +36,6 @@ Ensure that you have Java, JavaFX, and Maven installed on your device.
 - **Prompts**: The game guides the user with alerts and messages, including error messages for invalid input range and success messages for correct guesses.
 - **Restart Option**: Users can restart the game after a successful guess.
 
-## Credits 🌟
+## Credit 🌟
 
 [Dice icons created by bearicons - Flaticon](https://www.flaticon.com/free-icons/dice)
