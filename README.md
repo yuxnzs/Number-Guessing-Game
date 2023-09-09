@@ -26,7 +26,18 @@ This JavaFX application allows users to guess a randomly generated number within
 
 ## Requirement 🔧
 
-Ensure that you have Java, JavaFX, and Maven installed on your device.
+### Java Development Kit (JDK)
+- **Version**: 17 or higher.
+
+### JavaFX
+- **Version**: 17.0.2
+- Ensure that the JavaFX SDK is properly set up in your development environment.
+
+### Maven
+- The project uses Maven for dependency management and build automation. 
+
+### IDE (Optional but recommended)
+- IntelliJ IDEA or any other preferred Java IDE with Maven support.
 
 ## Features 🚀
 
