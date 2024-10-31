@@ -4,7 +4,7 @@ This project was my initial practice when I started learning JavaFX, created in 
 
 This JavaFX application allows users to guess a randomly generated number within a specific range.
 
-## Number Guessing Game Interface Demos 🖥
+## Game Demo 🖥
 
 ### Main Screen
 ![Main Screen](./src/main/resources/images/main_screen.png)
